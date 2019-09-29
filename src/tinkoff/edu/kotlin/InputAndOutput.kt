@@ -1,3 +1,5 @@
+package tinkoff.edu.kotlin
+
 import java.util.*
 
 val scan = Scanner(System.`in`)
