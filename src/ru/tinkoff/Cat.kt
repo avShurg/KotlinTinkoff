@@ -1,6 +1,6 @@
 package ru.tinkoff
 
-class Cat(var name: String, var age: Int) : Voiceable, Walkable, Swimable, Pet() {
+class Cat(var name: String, var age: Int = 0) : Voiceable, Walkable, Swimable, Pet() {
 
     override fun voice() {
         println("Мяу-мяу")
