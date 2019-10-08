@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55ea1385-4a1b-47da-8487-a4b7c1a6837e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/KotlinTinkoff/ru/tinkoff/Person$Companion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/KotlinTinkoff/ru/tinkoff/PersonComparator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTinkoff/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTinkoff/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTinkoff/ru/tinkoff/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTinkoff/ru/tinkoff/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/tinkoff/Person.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/tinkoff/Person.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +22,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Interface" />
         <option value="JUnit4 Test Class" />
         <option value="JUnit5 Test Class" />
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
       </list>
     </option>
   </component>
@@ -255,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570515540474</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Task: &quot;data class&quot;">
+      <created>1570529457871</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1570529457871</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -286,6 +299,7 @@
     <MESSAGE value="Task: &quot;cats&quot;" />
     <MESSAGE value="all tasks from lesson2" />
     <MESSAGE value="clear and refactor master branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="clear and refactor master branch" />
+    <MESSAGE value="Task: &quot;data class&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: &quot;data class&quot;" />
   </component>
 </project>
