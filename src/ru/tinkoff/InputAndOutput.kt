@@ -1,4 +1,4 @@
-package tinkoff.edu.kotlin
+package ru.tinkoff
 
 import java.util.*
 

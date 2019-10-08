@@ -1,4 +1,4 @@
-package tinkoff.edu.kotlin
+package ru.tinkoff
 
 fun sort(masInt: Array<Int>) {
     var buff: Int

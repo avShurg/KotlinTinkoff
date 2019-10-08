@@ -1,4 +1,4 @@
-package tinkoff.edu.kotlin
+package ru.tinkoff
 
 fun minimumFourNumbers(a: Int, b: Int, c: Int, d: Int): Int {
     val min1 = if (a < b) a else b
