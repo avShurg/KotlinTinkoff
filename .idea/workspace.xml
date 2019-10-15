@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55ea1385-4a1b-47da-8487-a4b7c1a6837e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/tinkoff/edu/kotlin/CycleFun.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tinkoff/edu/kotlin/FunctionIsCapitalized.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tinkoff/edu/kotlin/FunctionMult.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tinkoff/edu/kotlin/InputAndOutput.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tinkoff/edu/kotlin/MinimumFourNumbers.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tinkoff/edu/kotlin/Sorting.kt" beforeDir="false" />
+    <list default="true" id="55ea1385-4a1b-47da-8487-a4b7c1a6837e" name="Default Changelist" comment="all tasks from lesson2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +18,10 @@
       <list>
         <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
-        <option value="JUnit4 Test Class" />
         <option value="JUnit5 Test Class" />
+        <option value="HTML File" />
         <option value="Kotlin File" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -37,22 +33,21 @@
       </map>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1366" />
-    <option name="height" value="728" />
-  </component>
+  <component name="ProjectId" id="1SEhBGSZ6oVtc3RFMxp9XYxv2sH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -263,6 +258,17 @@
     <history-entry file="PetTest - 2019.10.06 at 21h 16m 54s.xml">
       <configuration name="PetTest" configurationId="JUnit" />
     </history-entry>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change package and add new file MinimumFourNumbers" />
