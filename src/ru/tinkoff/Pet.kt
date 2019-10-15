@@ -1,3 +1,3 @@
 package ru.tinkoff
 
-class Pet(var nickname: String, var age: Int, var sex: Boolean?)
+open class Pet(var nickname: String, var age: Int, var sex: Boolean?)
