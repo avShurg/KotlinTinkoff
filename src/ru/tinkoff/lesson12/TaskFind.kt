@@ -4,12 +4,18 @@ import kotlin.math.max
 
 fun main() {
     val list = listOf("Хрюша", "Степаша", "Филя", "Гуля")
+    /**
+     * Вариант исправленный на функцию max
+     */
     var maxLength = 0
     list.forEach {
-        if (it.length > maxLength) {
-            maxLength = it.length
-        }
+        maxLength = max(it.length, maxLength)
     }
-    val nameLengthMax = list.find { it.length == maxLength }
+    val nameLengthFind = list.find { it.length == maxLength }
+    println(nameLengthFind)
+    /**
+     * Вариант без функции find
+     */
+    val nameLengthMax = list.maxBy { it.length}
     println(nameLengthMax)
 }
